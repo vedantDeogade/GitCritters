@@ -5,7 +5,7 @@ Pixel-art critters that react to your git commands — right inside VS Code.
 GitCritters turns everyday git actions into tiny animated moments. Commit, push, pull, merge — each triggers a hand-crafted pixel-art animation and 8-bit sound, with an XP and unlock system that rewards you for actually using git well (not just often).
 
  Features
-
+ 
 - **Animated reactions** to ~10 core git commands (commit, push, pull, merge, branch, stash, etc.), each with its own critter animation
 - **`git push` mini-game** — a timing-based challenge that plays during pushes
 - **XP & progression system** — earn experience for git activity and level up
@@ -39,9 +39,6 @@ Then press `F5` in VS Code to launch an Extension Development Host with GitCritt
 - **Canvas 2D** — sprite rendering inside a WebviewPanel
 - **Web Audio API** — square-wave oscillator sound effects
 - **Aseprite** — sprite art authoring and export pipeline
-
-
-
  Usage
 
 Once installed, GitCritters activates automatically in any workspace with a git repository. No configuration needed — just use git as you normally would (via terminal, Source Control panel, or command palette) and watch for critter reactions in the panel.
